@@ -28,4 +28,4 @@ jobs:
           resourceGroupName: ${{ env.AZURE_RESOURCE_GROUP }}
           template: ./azuredeploy.json
 
-#yes
+#yes we can
